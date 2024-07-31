@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+resume_extractor
+job_description_extractor
+model_trainer
+comparison_utils
+synthetic_data
